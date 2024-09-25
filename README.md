@@ -1,5 +1,9 @@
 # Documentação do Projeto: Finans - Finanças Pessoais
 
+## Visualização do Projeto
+
+Você pode visualizar o projeto em: [Finans - Finanças Pessoais](https://finans-lake.vercel.app/)
+
 ## Visão Geral
 
 O projeto "Finans" é uma aplicação web desenvolvida para ajudar os usuários a gerenciar suas finanças pessoais de maneira simples e eficaz. O site oferece uma interface intuitiva e recursos que permitem que os usuários acompanhem seus gastos, recebam alertas de contas e aproveitem ferramentas que auxiliam na economia.
